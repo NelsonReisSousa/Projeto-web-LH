@@ -1,0 +1,35 @@
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\appsettings.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.staticwebassets.runtime.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.exe
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.deps.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.runtimeconfig.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\Projeto Web-LH.pdb
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.csproj.AssemblyReference.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.AssemblyInfoInputs.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.AssemblyInfo.cs
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.csproj.CoreCompileInputs.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.sourcelink.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets\msbuild.Projeto Web-LH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets\msbuild.build.Projeto Web-LH.props
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Web-LH.props
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Projeto Web-LH.props
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\scopedcss\bundle\Projeto Web-LH.styles.css
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto .85A3E737.Up2Date
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\refint\Projeto Web-LH.dll
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.pdb
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\Projeto Web-LH.genruntimeconfig.cache
+C:\Users\Nelson Reis\OneDrive\Área de Trabalho\SENAI\Projeto Web-LH\obj\Debug\net8.0\ref\Projeto Web-LH.dll

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "GSifBop0RUg0/AG+0XHEnSN0OWut6xJ6tt3EZoShuBw=",
+  "Source": "Projeto Web-LH",
+  "BasePath": "_content/Projeto Web-LH",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web-LH\\wwwroot",
+      "Source": "Projeto Web-LH",
+      "ContentRoot": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Projeto Web-LH\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-LH",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Projeto Web-LH\\wwwroot\\index.html",
+      "SourceId": "Projeto Web-LH",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Projeto Web-LH\\wwwroot\\",
+      "BasePath": "_content/Projeto Web-LH",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
